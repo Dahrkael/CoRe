@@ -1,0 +1,8 @@
+H:\Proyectos\CoRe\CoRe\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+H:\Proyectos\CoRe\CoRe\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Proyectos\CoRe\CoRe\bin\Xbox 360\Debug\CoRe.dll
+H:\Proyectos\CoRe\CoRe\bin\Xbox 360\Debug\CoRe.pdb
+H:\Proyectos\CoRe\CoRe\obj\Xbox 360\Debug\CoRe.dll
+H:\Proyectos\CoRe\CoRe\obj\Xbox 360\Debug\CoRe.pdb
+H:\Proyectos\CoRe\CoRe\bin\Xbox 360\Debug\SharpMod.dll
+H:\Proyectos\CoRe\CoRe\bin\Xbox 360\Debug\FarseerPhysicsXNA.dll
